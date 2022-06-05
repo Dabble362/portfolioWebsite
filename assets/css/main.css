@@ -3955,9 +3955,9 @@ body.is-preload #sidebar nav ul li {
 }
 
 @media screen and (max-width: 649px) {
-	section#intro div.inner img {
-		width: 80%;
-	}
+  section#intro div.inner img {
+    width: 80%;
+  }
 }
 
 @media screen and (max-width: 980px) {
@@ -3976,14 +3976,15 @@ body.is-preload #sidebar nav ul li {
   }
   #intro p {
     font-size: 1em;
-	text-align: center;
+    text-align: center;
   }
   #intro div.inner div {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-	margin: auto;
+    margin: auto;
+  }
 }
 
 @media screen and (max-width: 1280px) {
