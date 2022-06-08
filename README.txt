@@ -2,6 +2,8 @@ My portfolio Website with projects and contact info
 
 https://www.daniel-bennett-portfolio.com
 
+![](https://github.com/Dabble362/portfolioWebsite/images/portfolio-readme-image.png)
+
 How It's Made:
 Tech used: HTML, CSS, JavaScript, Sass, Jquery
 
