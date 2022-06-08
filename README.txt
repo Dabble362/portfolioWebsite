@@ -2,7 +2,7 @@ My portfolio Website with projects and contact info
 
 https://www.daniel-bennett-portfolio.com
 
-![portfolio image](https://github.com/Dabble362/portfolioWebsite/images/master/portfolio-readme-image.png?raw=true)
+![portfolio image](https://github.com/Dabble362/portfolioWebsite/images/portfolio-readme-image.png)
 
 
 How It's Made:
